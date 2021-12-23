@@ -1,0 +1,10 @@
+Surname, Salary
+Ivanov, 55
+Titova, 18
+Ivanov, 100
+Makarova, 25
+Smirnov, 15
+Zavyalova, 75
+Komarov, 10
+Astafyeva, 250
+Alekseev, 100
